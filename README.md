@@ -8,14 +8,14 @@ In this project, we implemented the neural style transfer based on existing stud
 
 Content images are:
 
-![img](/Users/xinyi0351/Documents/GitHub/STAT5242/images/content1.jpg) | ![img](/Users/xinyi0351/Documents/GitHub/STAT5242/images/content2.jpg)
+![img](https://github.com/xinyi0351/STAT5242/blob/main/images/content1.jpg) | ![img](https://github.com/xinyi0351/STAT5242/blob/main/images/content2.jpg)
 
 Style images are:
 
-![img](/Users/xinyi0351/Documents/GitHub/STAT5242/images/style1.jpg)![img](/Users/xinyi0351/Documents/GitHub/STAT5242/images/style2.jpg)
+![img](https://github.com/xinyi0351/STAT5242/blob/main/images/style1.jpg)![img](https://github.com/xinyi0351/STAT5242/blob/main/images/style2.jpg)
 
 The output printed with the final models are:
 
-![img](/Users/xinyi0351/Documents/GitHub/STAT5242/images/final1.png)![img](/Users/xinyi0351/Documents/GitHub/STAT5242/images/final2.png)
+![img](https://github.com/xinyi0351/STAT5242/blob/main/images/final1.png)![img](https://github.com/xinyi0351/STAT5242/blob/main/images/final2.png)
 
-![img](/Users/xinyi0351/Documents/GitHub/STAT5242/images/final3.png)![img](/Users/xinyi0351/Documents/GitHub/STAT5242/images/final4.png)
+![img](https://github.com/xinyi0351/STAT5242/blob/main/images/final3.png)![img](https://github.com/xinyi0351/STAT5242/blob/main/images/final4.png)
