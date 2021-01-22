@@ -19,3 +19,10 @@ The output printed with the final models are:
 ![img](https://github.com/xinyi0351/STAT5242/blob/main/images/final1.png)![img](https://github.com/xinyi0351/STAT5242/blob/main/images/final2.png)
 
 ![img](https://github.com/xinyi0351/STAT5242/blob/main/images/final3.png)![img](https://github.com/xinyi0351/STAT5242/blob/main/images/final4.png)
+
+### Model Comparison 
+
+|             | Running Time |  Total Loss   |                    Features                     |
+| :---------: | :----------: | :-----------: | :---------------------------------------------: |
+|  Baseline   |    111.73    |   1780934.4   |                    Smoother                     |
+| Final Model |    23.38     | 1643762800.00 | With clearer structure and more saturated color |
